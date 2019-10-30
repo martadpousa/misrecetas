@@ -857,7 +857,7 @@ li {
     height: 70px;
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;
+    display: none;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;

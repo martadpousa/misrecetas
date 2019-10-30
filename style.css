@@ -1017,8 +1017,8 @@ li {
 .add-widget .add-text a {
     min-width: 130px;
     height: 40px;
-    border: 1px solid #fc6c3f;
-    color: #fc6c3f;
+    border: 1px solid #a23ffc;
+    color: #a23ffc;
     font-size: 12px;
     display: inline-block;
     text-transform: uppercase;
@@ -1027,9 +1027,9 @@ li {
 }
 
 .add-widget .add-text a:hover {
-    border: 1px solid #fc6c3f;
+    border: 1px solid #a23ffc;
     color: #fff;
-    background-color: #fc6c3f;
+    background-color: #a23ffc;
 }
 
 /* Newsletter Widget CSS */

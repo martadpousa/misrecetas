@@ -1446,6 +1446,7 @@ li {
 }
 
 #pattern-switcher {
+	display: none;
 	width: 120px;
 	background-color: #fc6c3f;
 	position: fixed;
